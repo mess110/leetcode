@@ -5,3 +5,4 @@
 * [ ] permutations
 * [ ] set-matrix-zeroes
 * [ ] sudoku-solver
+* [ ] two-sum
