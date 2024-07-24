@@ -4,3 +4,4 @@
 * [ ] missing-number
 * [ ] permutations
 * [ ] set-matrix-zeroes
+* [ ] sudoku-solver
